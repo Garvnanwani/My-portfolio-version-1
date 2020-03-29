@@ -149,11 +149,13 @@ header nav .aw-nav-toggle {
     align-items: center;
     width: 60px;
     height: 60px;
-    color: #fff;
+    color: #000;
     font-size: 26px;
-    border: solid 2px #fff;
+    border:  solid 2px #fff;
     border-radius: 100%;
     object-fit: cover;
+    color: #fff;
+    /* background-color: black; */
 }
 
 /* Sections */
